@@ -1,0 +1,17 @@
+{
+  "name": "SNStoSlackFunction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AWS",
+    "Lambda",
+    "SNS",
+    "Slack"
+  ],
+  "author": "Satoshi Watanabe",
+  "license": "ISC"
+}
